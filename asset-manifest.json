@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/suffisme/Technozion-22/static/css/main.ad7fcd32.css",
+    "main.js": "/suffisme/Technozion-22/static/js/main.437064d9.js",
+    "static/js/787.8e08f049.chunk.js": "/suffisme/Technozion-22/static/js/787.8e08f049.chunk.js",
+    "static/media/tech-1.jpg": "/suffisme/Technozion-22/static/media/tech-1.2cf020918ebd02f4b5e9.jpg",
+    "static/media/e4.jpeg": "/suffisme/Technozion-22/static/media/e4.973ad33df10fb5e19ba2.jpeg",
+    "static/media/e2.jpeg": "/suffisme/Technozion-22/static/media/e2.9f259b2b07574a4b3c9a.jpeg",
+    "static/media/e1.jpeg": "/suffisme/Technozion-22/static/media/e1.33d23e38479013cf9f33.jpeg",
+    "static/media/e3.jpeg": "/suffisme/Technozion-22/static/media/e3.fcdcc812264c0a4ac7e6.jpeg",
+    "static/media/tzlogo.png": "/suffisme/Technozion-22/static/media/tzlogo.78dfc377c537539a9b9a.png",
+    "static/media/instagram.png": "/suffisme/Technozion-22/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/discord.png": "/suffisme/Technozion-22/static/media/discord.f1174c8cea4794e64dd0.png",
+    "static/media/slick.svg": "/suffisme/Technozion-22/static/media/slick.2630a3e3eab21c607e21.svg",
+    "index.html": "/suffisme/Technozion-22/index.html",
+    "static/media/slick.eot": "/suffisme/Technozion-22/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/suffisme/Technozion-22/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/suffisme/Technozion-22/static/media/slick.295183786cd8a1389865.woff",
+    "main.ad7fcd32.css.map": "/suffisme/Technozion-22/static/css/main.ad7fcd32.css.map",
+    "main.437064d9.js.map": "/suffisme/Technozion-22/static/js/main.437064d9.js.map",
+    "787.8e08f049.chunk.js.map": "/suffisme/Technozion-22/static/js/787.8e08f049.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad7fcd32.css",
+    "static/js/main.437064d9.js"
+  ]
+}
